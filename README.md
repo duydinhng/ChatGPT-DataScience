@@ -1,1 +1,1 @@
-# ChatGPT-DataScience
+# Using ChatGPT to do DataScience
